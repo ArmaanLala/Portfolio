@@ -4,7 +4,7 @@
     <nav class="navbar" role="navigation" aria-label="main navigation">
       <div class="navbar-brand">
         <router-link class="navbar-item" to="/">
-          <h1>Armaan Lala</h1>
+          Armaan Lala
         </router-link>
 
         <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample" :class="{ 'is-active': showNav }" @click="showNav = !showNav">
@@ -70,7 +70,7 @@
   overflow: hidden;
   display: block;
   position: relative;
-  padding-bottom: 104px; 
+  padding-bottom: 152px; 
 }
 footer {
  position: absolute;
@@ -80,6 +80,9 @@ footer {
 }
 .footer {
   padding:1.5rem!important;
+}
+a {
+  font-size: 1.4rem;
 }
 </style>
 
