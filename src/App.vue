@@ -26,6 +26,9 @@
           <router-link to="/about" class="navbar-item">
            About
           </router-link>
+          <router-link to="/resume" class="navbar-item">
+           Resume
+          </router-link>
           <router-link to="/projects" class="navbar-item">
            Projects
           </router-link>
@@ -66,9 +69,9 @@
 <style type="text/css">
 #app {
   /* padding-top: 40px; */
-  min-height: 100vh;
-  overflow: hidden;
-  display: block;
+  /* min-height: 100vh; */
+  /* overflow: hidden; */
+  /* display: block; */
   position: relative;
   padding-bottom: 152px; 
 }

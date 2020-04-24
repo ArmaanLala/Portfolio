@@ -65,7 +65,7 @@
 
     <section class="section">
       <h2 class="title is-3 has-text-weight-medium has-text-centered e">
-        Languages and Technologies I am Skilled In
+        Proficient Languages and Technologies
       </h2>
       <div class="container">
         <div class="columns is-centered">
@@ -133,7 +133,7 @@
                 Java
               </h3>
               <p>
-                Full production applications written in Vue
+                Command line and Gui apps made using Java and JavaFX
               </p>
             </div>
           </div>
@@ -185,7 +185,7 @@
                 Express.js
               </h3>
               <p>
-                Proficient in ES6 and ES5 JS
+                Back-ends written using Node and Express
               </p>
             </div>
           </div>
@@ -193,7 +193,7 @@
           <div class="column is-one-fifth">
             <div class="box">
               <figure>
-                <img src="../assets/python-original.svg" alt="" />
+                <img src="../assets/python-5.svg" alt=""  height="128px"/>
               </figure>
               <h3
                 class="tech-box-title title is-4 has-text-weight-medium has-text-centered"
@@ -201,7 +201,7 @@
                 Python
               </h3>
               <p>
-                Back-ends written using Node and Express
+                Competition Programming all done in Python
               </p>
             </div>
           </div>
