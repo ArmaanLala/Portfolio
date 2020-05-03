@@ -55,6 +55,14 @@
               </p>
             </div>
           </div>
+          <div class="column">
+            <div class="box">
+              <h3 class="title is-4 has-text-weight-medium">UGA Hacks 5 Runner Up (2020)</h3>
+              <p>
+                Developed invEZ, a web app designed to get people started in investing and provides clients with a portfolio of stocks tailored around their interests. This app received the Runner Up in the BlackRock Hackathon API Challenge.
+              </p>
+            </div>
+          </div>
         </div>
       </div>
     </section>
@@ -183,7 +191,7 @@
           <div class="column is-vcentered is-one-fifth">
             <div class="box">
               <figure>
-                <img src="../assets/python-5.svg" alt height="128px" />
+                <img src="../assets/python-5.svg"  />
               </figure>
               <h3
                 class="tech-box-title title is-4 has-text-weight-medium has-text-centered"
@@ -200,11 +208,11 @@
         >
           Other Technologies
         </p>
-        <p
+        <!-- <p
           class="tech-box-title title is-4 has-text-weight-light has-text-centered"
         >
           Firebase • Mongodb • LaTeX • Matlab • Flutter
-        </p>
+        </p> -->
         <section class="is-flex">
           <div class="container final">
             <!-- Firebase  -->
@@ -446,16 +454,20 @@
   min-width: 130px;
 }
 .tech {
+  margin-bottom: 10px;
   max-width: 70px;
   min-height: 70px;
   max-height: 70px;
 }
 svg {
+  display: block;
   max-width: 210px;
   margin: 0 auto;
 }
 img {
-  max-width: 210px;
+  display: block;
+  margin: auto;
+  max-height: 210px;
 }
 .box {
   height: 100%;
@@ -464,8 +476,8 @@ img {
   margin-top: 1.5rem;
 }
 figure {
-  display: flex;
-  justify-content: center;
+  /* display: block; */
+  /* margin: auto; */
 }
 
 .colp {
