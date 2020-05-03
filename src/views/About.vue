@@ -69,7 +69,7 @@
       </h2>
       <div class="container">
         <div class="columns is-centered">
-          <div class="column is-one-fifth">
+          <div class="column is-vcentered is-one-fifth">
             <div class="box">
               <figure>
                 <svg viewBox="0 0 128 128">
@@ -95,13 +95,13 @@
               >
                 C++
               </h3>
-              <p>
+              <p class="colp">
                 Linux Systems Programming all done in C++
               </p>
             </div>
           </div>
 
-          <div class="column is-one-fifth">
+          <div class="column is-vcentered is-one-fifth">
             <div class="box">
               <figure>
                 <svg viewBox="0 0 128 128">
@@ -132,13 +132,13 @@
               >
                 Java
               </h3>
-              <p>
+              <p class="colp">
                 Command line and Gui apps made using Java and JavaFX
               </p>
             </div>
           </div>
 
-          <div class="column is-one-fifth">
+          <div class="column is-vcentered is-one-fifth">
             <div class="box">
               <figure>
                 <svg viewBox="0 0 128 128">
@@ -161,13 +161,13 @@
               >
                 Vue.js
               </h3>
-              <p>
+              <p class="colp">
                 Full production applications written in Vue
               </p>
             </div>
           </div>
 
-          <div class="column is-one-fifth">
+          <div class="column is-vcentered is-one-fifth">
             <div class="box">
               <figure>
                 <svg viewBox="0 0 128 128">
@@ -184,13 +184,13 @@
               >
                 Express.js
               </h3>
-              <p>
+              <p class="colp">
                 Back-ends written using Node and Express
               </p>
             </div>
           </div>
 
-          <div class="column is-one-fifth">
+          <div class="column is-vcentered is-one-fifth">
             <div class="box">
               <figure>
                 <img src="../assets/python-5.svg" alt=""  height="128px"/>
@@ -200,7 +200,7 @@
               >
                 Python
               </h3>
-              <p>
+              <p class="colp">
                 Competition Programming all done in Python
               </p>
             </div>
@@ -226,11 +226,26 @@
 </template>
 
 <style type="text/css">
+  svg{
+    max-width: 210px;
+    margin: 0 auto;
+  }
+  img {
+    max-width: 210px;
+  }
 .box {
   height: 100%;
 }
 .tech-box-title {
   margin-top: 1.5rem;
+}
+figure{
+  display: flex;
+  justify-content: center;
+}
+
+.colp {
+  text-align: center;
 }
 </style>
 

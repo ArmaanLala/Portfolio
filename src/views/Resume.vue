@@ -1,6 +1,6 @@
 <template>
 <div>
-    <embed src="Resume.pdf" height="1300" width="100%"> 
+    <embed src="Resume.pdf"   width="100%"> 
 </div>
 </template>
 
@@ -11,6 +11,8 @@ export default {
 </script>
 
 <style scoped>
-
+embed{
+  height: 100vh;
+}
 
 </style>
