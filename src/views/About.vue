@@ -475,10 +475,6 @@ img {
 .tech-box-title {
   margin-top: 1.5rem;
 }
-figure {
-  /* display: block; */
-  /* margin: auto; */
-}
 
 .colp {
   text-align: center;
