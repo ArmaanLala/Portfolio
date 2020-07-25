@@ -32,9 +32,9 @@
           <!-- <router-link to="/projects" class="navbar-item">
            Projects
           </router-link> -->
-          <router-link to="/contact" class="navbar-item">
+          <!-- <router-link to="/contact" class="navbar-item">
            Contact
-          </router-link>
+          </router-link> -->
        </div>
      </div>
    </nav>
@@ -42,13 +42,13 @@
    <footer class="footer">
     <div class="content has-text-centered">
       <p>
-        Armaan Lala 2020
+         Made Using Vue.js + Bulma.io
       </p>
       <p>
-        Armaan Lala 2020
+        Armaan Lala
       </p>
       <p>
-        Armaan Lala 2020
+        armaanlala@gmail.com
       </p>
     </div>
   </footer>
