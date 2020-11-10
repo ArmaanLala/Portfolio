@@ -29,9 +29,11 @@
           <router-link to="/resume" class="navbar-item">
            Resume
           </router-link>
-          <!-- <router-link to="/projects" class="navbar-item">
+          <router-link to="/projects" class="navbar-item">
            Projects
-          </router-link> -->
+          </router-link>
+          
+          
           <!-- <router-link to="/contact" class="navbar-item">
            Contact
           </router-link> -->

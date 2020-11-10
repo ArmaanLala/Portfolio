@@ -19,8 +19,7 @@
               I am currently a second year student at the Georgia Instutite of
               Technology studying for a Bachelor's degree in Mathematics , as
               well as Computer Science with a concentration on Systems and
-              Architecture along with Intelligence. In addition, I am pursuing a
-              Minor in Physics.
+              Architecture along with Intelligence.
             </p>
           </div>
         </div>
@@ -35,31 +34,28 @@
         <div class="columns">
           <div class="column">
             <div class="box">
-              <h3 class="title is-4 has-text-weight-medium">MPECT (2018)</h3>
-              <p>
-                I worked as an assistant App Devolper for MPECT based in
-                downtown Atlanta. I helped to write the backend code for the
-                databse structures, along with implementing various UI elements.
-              </p>
-            </div>
-          </div>
-          <div class="column">
-            <div class="box">
               <h3 class="title is-4 has-text-weight-medium">
                 The Coder School (2018-19)
               </h3>
               <p>
-                I worked as a Code Coach teaching kids ages 8-16 various
-                programming skills and languages. I specialized in teaching both
-                Scratch and Python.
+                Instructed kids between the ages of 8–16 in 1–on–1 lesson on various aspects of programming with either Scratch or Python.
+                Led summer classes in programming with class sizes up to 20 students.
               </p>
             </div>
           </div>
-          <div class="column">
+          <!-- <div class="column">
             <div class="box">
               <h3 class="title is-4 has-text-weight-medium">UGA Hacks 5 Runner Up (2020)</h3>
               <p>
-                Developed invEZ, a web app designed to get people started in investing and provides clients with a portfolio of stocks tailored around their interests. This app received the Runner Up in the BlackRock Hackathon API Challenge.
+                Designed invEZ, a web app designed to get people started in investing and provides clients with a portfolio of stocks tailored around their interests. Used Vue.js to write front-end Vue components that would communicate with Google Firebase to retrieve the user’s information and send the user’s stock information to our backend Express.js server. The data retrieved from the backend would then be displayed on the custom Vue components I wrote. Received the Runner Up in the BlackRock Hackathon API Challenge.</p>
+            </div>
+          </div> -->
+          <div class="column">
+            <div class="box">
+              <h3 class="title is-4 has-text-weight-medium">ARCS Student IT Worker (2020 - Present)</h3>
+              <p>
+                Diagnose hardware, software, and network problems, configuring, installing and maintaining laptops, workstations, and servers.
+Perform maintenance on all different operating systems used at Georgia Tech from, RedHat Linux, Windows, to MacOS.
               </p>
             </div>
           </div>
@@ -163,7 +159,7 @@
               >
                 Vue.js
               </h3>
-              <p class="colp">Full production applications written in Vue</p>
+              <p class="colp">Full-Stack applications written in Vue</p>
             </div>
           </div>
 
